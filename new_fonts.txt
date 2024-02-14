@@ -1,0 +1,1693 @@
+output
+├── B Arabics Style
+│   ├── aleph_B Arabics Style.caption
+│   ├── aleph_B Arabics Style.png
+│   ├── ayn_B Arabics Style.caption
+│   ├── ayn_B Arabics Style.png
+│   ├── beh_B Arabics Style.caption
+│   ├── beh_B Arabics Style.png
+│   ├── che_B Arabics Style.caption
+│   ├── che_B Arabics Style.png
+│   ├── daal_B Arabics Style.caption
+│   ├── daal_B Arabics Style.png
+│   ├── feh_B Arabics Style.caption
+│   ├── feh_B Arabics Style.png
+│   ├── gaf_B Arabics Style.caption
+│   ├── gaf_B Arabics Style.png
+│   ├── ghayn_B Arabics Style.caption
+│   ├── ghayn_B Arabics Style.png
+│   ├── he jimi_B Arabics Style.caption
+│   ├── he jimi_B Arabics Style.png
+│   ├── he_B Arabics Style.caption
+│   ├── he_B Arabics Style.png
+│   ├── jim_B Arabics Style.caption
+│   ├── jim_B Arabics Style.png
+│   ├── kaf_B Arabics Style.caption
+│   ├── kaf_B Arabics Style.png
+│   ├── khe_B Arabics Style.caption
+│   ├── khe_B Arabics Style.png
+│   ├── lam_B Arabics Style.caption
+│   ├── lam_B Arabics Style.png
+│   ├── mim_B Arabics Style.caption
+│   ├── mim_B Arabics Style.png
+│   ├── nun_B Arabics Style.caption
+│   ├── nun_B Arabics Style.png
+│   ├── peh_B Arabics Style.caption
+│   ├── peh_B Arabics Style.png
+│   ├── qaf_B Arabics Style.caption
+│   ├── qaf_B Arabics Style.png
+│   ├── re_B Arabics Style.caption
+│   ├── re_B Arabics Style.png
+│   ├── sad_B Arabics Style.caption
+│   ├── sad_B Arabics Style.png
+│   ├── shin_B Arabics Style.caption
+│   ├── shin_B Arabics Style.png
+│   ├── sin_B Arabics Style.caption
+│   ├── sin_B Arabics Style.png
+│   ├── taa_B Arabics Style.caption
+│   ├── taa_B Arabics Style.png
+│   ├── teh_B Arabics Style.caption
+│   ├── teh_B Arabics Style.png
+│   ├── theh_B Arabics Style.caption
+│   ├── theh_B Arabics Style.png
+│   ├── vav_B Arabics Style.caption
+│   ├── vav_B Arabics Style.png
+│   ├── yaa_B Arabics Style.caption
+│   ├── yaa_B Arabics Style.png
+│   ├── zaa_B Arabics Style.caption
+│   ├── zaa_B Arabics Style.png
+│   ├── zaal_B Arabics Style.caption
+│   ├── zaal_B Arabics Style.png
+│   ├── zad_B Arabics Style.caption
+│   ├── zad_B Arabics Style.png
+│   ├── ze_B Arabics Style.caption
+│   ├── ze_B Arabics Style.png
+│   ├── zhe_B Arabics Style.caption
+│   └── zhe_B Arabics Style.png
+├── B Arash
+│   ├── aleph_B Arash.caption
+│   ├── aleph_B Arash.png
+│   ├── ayn_B Arash.caption
+│   ├── ayn_B Arash.png
+│   ├── beh_B Arash.caption
+│   ├── beh_B Arash.png
+│   ├── che_B Arash.caption
+│   ├── che_B Arash.png
+│   ├── daal_B Arash.caption
+│   ├── daal_B Arash.png
+│   ├── feh_B Arash.caption
+│   ├── feh_B Arash.png
+│   ├── gaf_B Arash.caption
+│   ├── gaf_B Arash.png
+│   ├── ghayn_B Arash.caption
+│   ├── ghayn_B Arash.png
+│   ├── he jimi_B Arash.caption
+│   ├── he jimi_B Arash.png
+│   ├── he_B Arash.caption
+│   ├── he_B Arash.png
+│   ├── jim_B Arash.caption
+│   ├── jim_B Arash.png
+│   ├── kaf_B Arash.caption
+│   ├── kaf_B Arash.png
+│   ├── khe_B Arash.caption
+│   ├── khe_B Arash.png
+│   ├── lam_B Arash.caption
+│   ├── lam_B Arash.png
+│   ├── mim_B Arash.caption
+│   ├── mim_B Arash.png
+│   ├── nun_B Arash.caption
+│   ├── nun_B Arash.png
+│   ├── peh_B Arash.caption
+│   ├── peh_B Arash.png
+│   ├── qaf_B Arash.caption
+│   ├── qaf_B Arash.png
+│   ├── re_B Arash.caption
+│   ├── re_B Arash.png
+│   ├── sad_B Arash.caption
+│   ├── sad_B Arash.png
+│   ├── shin_B Arash.caption
+│   ├── shin_B Arash.png
+│   ├── sin_B Arash.caption
+│   ├── sin_B Arash.png
+│   ├── taa_B Arash.caption
+│   ├── taa_B Arash.png
+│   ├── teh_B Arash.caption
+│   ├── teh_B Arash.png
+│   ├── theh_B Arash.caption
+│   ├── theh_B Arash.png
+│   ├── vav_B Arash.caption
+│   ├── vav_B Arash.png
+│   ├── yaa_B Arash.caption
+│   ├── yaa_B Arash.png
+│   ├── zaa_B Arash.caption
+│   ├── zaa_B Arash.png
+│   ├── zaal_B Arash.caption
+│   ├── zaal_B Arash.png
+│   ├── zad_B Arash.caption
+│   ├── zad_B Arash.png
+│   ├── ze_B Arash.caption
+│   ├── ze_B Arash.png
+│   ├── zhe_B Arash.caption
+│   └── zhe_B Arash.png
+├── B Aria
+│   ├── aleph_B Aria.caption
+│   ├── aleph_B Aria.png
+│   ├── ayn_B Aria.caption
+│   ├── ayn_B Aria.png
+│   ├── beh_B Aria.caption
+│   ├── beh_B Aria.png
+│   ├── che_B Aria.caption
+│   ├── che_B Aria.png
+│   ├── daal_B Aria.caption
+│   ├── daal_B Aria.png
+│   ├── feh_B Aria.caption
+│   ├── feh_B Aria.png
+│   ├── gaf_B Aria.caption
+│   ├── gaf_B Aria.png
+│   ├── ghayn_B Aria.caption
+│   ├── ghayn_B Aria.png
+│   ├── he jimi_B Aria.caption
+│   ├── he jimi_B Aria.png
+│   ├── he_B Aria.caption
+│   ├── he_B Aria.png
+│   ├── jim_B Aria.caption
+│   ├── jim_B Aria.png
+│   ├── kaf_B Aria.caption
+│   ├── kaf_B Aria.png
+│   ├── khe_B Aria.caption
+│   ├── khe_B Aria.png
+│   ├── lam_B Aria.caption
+│   ├── lam_B Aria.png
+│   ├── mim_B Aria.caption
+│   ├── mim_B Aria.png
+│   ├── nun_B Aria.caption
+│   ├── nun_B Aria.png
+│   ├── peh_B Aria.caption
+│   ├── peh_B Aria.png
+│   ├── qaf_B Aria.caption
+│   ├── qaf_B Aria.png
+│   ├── re_B Aria.caption
+│   ├── re_B Aria.png
+│   ├── sad_B Aria.caption
+│   ├── sad_B Aria.png
+│   ├── shin_B Aria.caption
+│   ├── shin_B Aria.png
+│   ├── sin_B Aria.caption
+│   ├── sin_B Aria.png
+│   ├── taa_B Aria.caption
+│   ├── taa_B Aria.png
+│   ├── teh_B Aria.caption
+│   ├── teh_B Aria.png
+│   ├── theh_B Aria.caption
+│   ├── theh_B Aria.png
+│   ├── vav_B Aria.caption
+│   ├── vav_B Aria.png
+│   ├── yaa_B Aria.caption
+│   ├── yaa_B Aria.png
+│   ├── zaa_B Aria.caption
+│   ├── zaa_B Aria.png
+│   ├── zaal_B Aria.caption
+│   ├── zaal_B Aria.png
+│   ├── zad_B Aria.caption
+│   ├── zad_B Aria.png
+│   ├── ze_B Aria.caption
+│   ├── ze_B Aria.png
+│   ├── zhe_B Aria.caption
+│   └── zhe_B Aria.png
+├── B Arshia
+│   ├── aleph_B Arshia.caption
+│   ├── aleph_B Arshia.png
+│   ├── ayn_B Arshia.caption
+│   ├── ayn_B Arshia.png
+│   ├── beh_B Arshia.caption
+│   ├── beh_B Arshia.png
+│   ├── che_B Arshia.caption
+│   ├── che_B Arshia.png
+│   ├── daal_B Arshia.caption
+│   ├── daal_B Arshia.png
+│   ├── feh_B Arshia.caption
+│   ├── feh_B Arshia.png
+│   ├── gaf_B Arshia.caption
+│   ├── gaf_B Arshia.png
+│   ├── ghayn_B Arshia.caption
+│   ├── ghayn_B Arshia.png
+│   ├── he jimi_B Arshia.caption
+│   ├── he jimi_B Arshia.png
+│   ├── he_B Arshia.caption
+│   ├── he_B Arshia.png
+│   ├── jim_B Arshia.caption
+│   ├── jim_B Arshia.png
+│   ├── kaf_B Arshia.caption
+│   ├── kaf_B Arshia.png
+│   ├── khe_B Arshia.caption
+│   ├── khe_B Arshia.png
+│   ├── lam_B Arshia.caption
+│   ├── lam_B Arshia.png
+│   ├── mim_B Arshia.caption
+│   ├── mim_B Arshia.png
+│   ├── nun_B Arshia.caption
+│   ├── nun_B Arshia.png
+│   ├── peh_B Arshia.caption
+│   ├── peh_B Arshia.png
+│   ├── qaf_B Arshia.caption
+│   ├── qaf_B Arshia.png
+│   ├── re_B Arshia.caption
+│   ├── re_B Arshia.png
+│   ├── sad_B Arshia.caption
+│   ├── sad_B Arshia.png
+│   ├── shin_B Arshia.caption
+│   ├── shin_B Arshia.png
+│   ├── sin_B Arshia.caption
+│   ├── sin_B Arshia.png
+│   ├── taa_B Arshia.caption
+│   ├── taa_B Arshia.png
+│   ├── teh_B Arshia.caption
+│   ├── teh_B Arshia.png
+│   ├── theh_B Arshia.caption
+│   ├── theh_B Arshia.png
+│   ├── vav_B Arshia.caption
+│   ├── vav_B Arshia.png
+│   ├── yaa_B Arshia.caption
+│   ├── yaa_B Arshia.png
+│   ├── zaa_B Arshia.caption
+│   ├── zaa_B Arshia.png
+│   ├── zaal_B Arshia.caption
+│   ├── zaal_B Arshia.png
+│   ├── zad_B Arshia.caption
+│   ├── zad_B Arshia.png
+│   ├── ze_B Arshia.caption
+│   ├── ze_B Arshia.png
+│   ├── zhe_B Arshia.caption
+│   └── zhe_B Arshia.png
+├── B Aseman
+│   ├── aleph_B Aseman.caption
+│   ├── aleph_B Aseman.png
+│   ├── ayn_B Aseman.caption
+│   ├── ayn_B Aseman.png
+│   ├── beh_B Aseman.caption
+│   ├── beh_B Aseman.png
+│   ├── che_B Aseman.caption
+│   ├── che_B Aseman.png
+│   ├── daal_B Aseman.caption
+│   ├── daal_B Aseman.png
+│   ├── feh_B Aseman.caption
+│   ├── feh_B Aseman.png
+│   ├── gaf_B Aseman.caption
+│   ├── gaf_B Aseman.png
+│   ├── ghayn_B Aseman.caption
+│   ├── ghayn_B Aseman.png
+│   ├── he jimi_B Aseman.caption
+│   ├── he jimi_B Aseman.png
+│   ├── he_B Aseman.caption
+│   ├── he_B Aseman.png
+│   ├── jim_B Aseman.caption
+│   ├── jim_B Aseman.png
+│   ├── kaf_B Aseman.caption
+│   ├── kaf_B Aseman.png
+│   ├── khe_B Aseman.caption
+│   ├── khe_B Aseman.png
+│   ├── lam_B Aseman.caption
+│   ├── lam_B Aseman.png
+│   ├── mim_B Aseman.caption
+│   ├── mim_B Aseman.png
+│   ├── nun_B Aseman.caption
+│   ├── nun_B Aseman.png
+│   ├── peh_B Aseman.caption
+│   ├── peh_B Aseman.png
+│   ├── qaf_B Aseman.caption
+│   ├── qaf_B Aseman.png
+│   ├── re_B Aseman.caption
+│   ├── re_B Aseman.png
+│   ├── sad_B Aseman.caption
+│   ├── sad_B Aseman.png
+│   ├── shin_B Aseman.caption
+│   ├── shin_B Aseman.png
+│   ├── sin_B Aseman.caption
+│   ├── sin_B Aseman.png
+│   ├── taa_B Aseman.caption
+│   ├── taa_B Aseman.png
+│   ├── teh_B Aseman.caption
+│   ├── teh_B Aseman.png
+│   ├── theh_B Aseman.caption
+│   ├── theh_B Aseman.png
+│   ├── vav_B Aseman.caption
+│   ├── vav_B Aseman.png
+│   ├── yaa_B Aseman.caption
+│   ├── yaa_B Aseman.png
+│   ├── zaa_B Aseman.caption
+│   ├── zaa_B Aseman.png
+│   ├── zaal_B Aseman.caption
+│   ├── zaal_B Aseman.png
+│   ├── zad_B Aseman.caption
+│   ├── zad_B Aseman.png
+│   ├── ze_B Aseman.caption
+│   ├── ze_B Aseman.png
+│   ├── zhe_B Aseman.caption
+│   └── zhe_B Aseman.png
+├── B Aseman Italic
+│   ├── aleph_B Aseman Italic.caption
+│   ├── aleph_B Aseman Italic.png
+│   ├── ayn_B Aseman Italic.caption
+│   ├── ayn_B Aseman Italic.png
+│   ├── beh_B Aseman Italic.caption
+│   ├── beh_B Aseman Italic.png
+│   ├── che_B Aseman Italic.caption
+│   ├── che_B Aseman Italic.png
+│   ├── daal_B Aseman Italic.caption
+│   ├── daal_B Aseman Italic.png
+│   ├── feh_B Aseman Italic.caption
+│   ├── feh_B Aseman Italic.png
+│   ├── gaf_B Aseman Italic.caption
+│   ├── gaf_B Aseman Italic.png
+│   ├── ghayn_B Aseman Italic.caption
+│   ├── ghayn_B Aseman Italic.png
+│   ├── he jimi_B Aseman Italic.caption
+│   ├── he jimi_B Aseman Italic.png
+│   ├── he_B Aseman Italic.caption
+│   ├── he_B Aseman Italic.png
+│   ├── jim_B Aseman Italic.caption
+│   ├── jim_B Aseman Italic.png
+│   ├── kaf_B Aseman Italic.caption
+│   ├── kaf_B Aseman Italic.png
+│   ├── khe_B Aseman Italic.caption
+│   ├── khe_B Aseman Italic.png
+│   ├── lam_B Aseman Italic.caption
+│   ├── lam_B Aseman Italic.png
+│   ├── mim_B Aseman Italic.caption
+│   ├── mim_B Aseman Italic.png
+│   ├── nun_B Aseman Italic.caption
+│   ├── nun_B Aseman Italic.png
+│   ├── peh_B Aseman Italic.caption
+│   ├── peh_B Aseman Italic.png
+│   ├── qaf_B Aseman Italic.caption
+│   ├── qaf_B Aseman Italic.png
+│   ├── re_B Aseman Italic.caption
+│   ├── re_B Aseman Italic.png
+│   ├── sad_B Aseman Italic.caption
+│   ├── sad_B Aseman Italic.png
+│   ├── shin_B Aseman Italic.caption
+│   ├── shin_B Aseman Italic.png
+│   ├── sin_B Aseman Italic.caption
+│   ├── sin_B Aseman Italic.png
+│   ├── taa_B Aseman Italic.caption
+│   ├── taa_B Aseman Italic.png
+│   ├── teh_B Aseman Italic.caption
+│   ├── teh_B Aseman Italic.png
+│   ├── theh_B Aseman Italic.caption
+│   ├── theh_B Aseman Italic.png
+│   ├── vav_B Aseman Italic.caption
+│   ├── vav_B Aseman Italic.png
+│   ├── yaa_B Aseman Italic.caption
+│   ├── yaa_B Aseman Italic.png
+│   ├── zaa_B Aseman Italic.caption
+│   ├── zaa_B Aseman Italic.png
+│   ├── zaal_B Aseman Italic.caption
+│   ├── zaal_B Aseman Italic.png
+│   ├── zad_B Aseman Italic.caption
+│   ├── zad_B Aseman Italic.png
+│   ├── ze_B Aseman Italic.caption
+│   ├── ze_B Aseman Italic.png
+│   ├── zhe_B Aseman Italic.caption
+│   └── zhe_B Aseman Italic.png
+├── B Davat
+│   ├── aleph_B Davat.caption
+│   ├── aleph_B Davat.png
+│   ├── ayn_B Davat.caption
+│   ├── ayn_B Davat.png
+│   ├── beh_B Davat.caption
+│   ├── beh_B Davat.png
+│   ├── che_B Davat.caption
+│   ├── che_B Davat.png
+│   ├── daal_B Davat.caption
+│   ├── daal_B Davat.png
+│   ├── feh_B Davat.caption
+│   ├── feh_B Davat.png
+│   ├── gaf_B Davat.caption
+│   ├── gaf_B Davat.png
+│   ├── ghayn_B Davat.caption
+│   ├── ghayn_B Davat.png
+│   ├── he jimi_B Davat.caption
+│   ├── he jimi_B Davat.png
+│   ├── he_B Davat.caption
+│   ├── he_B Davat.png
+│   ├── jim_B Davat.caption
+│   ├── jim_B Davat.png
+│   ├── kaf_B Davat.caption
+│   ├── kaf_B Davat.png
+│   ├── khe_B Davat.caption
+│   ├── khe_B Davat.png
+│   ├── lam_B Davat.caption
+│   ├── lam_B Davat.png
+│   ├── mim_B Davat.caption
+│   ├── mim_B Davat.png
+│   ├── nun_B Davat.caption
+│   ├── nun_B Davat.png
+│   ├── peh_B Davat.caption
+│   ├── peh_B Davat.png
+│   ├── qaf_B Davat.caption
+│   ├── qaf_B Davat.png
+│   ├── re_B Davat.caption
+│   ├── re_B Davat.png
+│   ├── sad_B Davat.caption
+│   ├── sad_B Davat.png
+│   ├── shin_B Davat.caption
+│   ├── shin_B Davat.png
+│   ├── sin_B Davat.caption
+│   ├── sin_B Davat.png
+│   ├── taa_B Davat.caption
+│   ├── taa_B Davat.png
+│   ├── teh_B Davat.caption
+│   ├── teh_B Davat.png
+│   ├── theh_B Davat.caption
+│   ├── theh_B Davat.png
+│   ├── vav_B Davat.caption
+│   ├── vav_B Davat.png
+│   ├── yaa_B Davat.caption
+│   ├── yaa_B Davat.png
+│   ├── zaa_B Davat.caption
+│   ├── zaa_B Davat.png
+│   ├── zaal_B Davat.caption
+│   ├── zaal_B Davat.png
+│   ├── zad_B Davat.caption
+│   ├── zad_B Davat.png
+│   ├── ze_B Davat.caption
+│   ├── ze_B Davat.png
+│   ├── zhe_B Davat.caption
+│   └── zhe_B Davat.png
+├── B Elham
+│   ├── aleph_B Elham.caption
+│   ├── aleph_B Elham.png
+│   ├── ayn_B Elham.caption
+│   ├── ayn_B Elham.png
+│   ├── beh_B Elham.caption
+│   ├── beh_B Elham.png
+│   ├── che_B Elham.caption
+│   ├── che_B Elham.png
+│   ├── daal_B Elham.caption
+│   ├── daal_B Elham.png
+│   ├── feh_B Elham.caption
+│   ├── feh_B Elham.png
+│   ├── gaf_B Elham.caption
+│   ├── gaf_B Elham.png
+│   ├── ghayn_B Elham.caption
+│   ├── ghayn_B Elham.png
+│   ├── he jimi_B Elham.caption
+│   ├── he jimi_B Elham.png
+│   ├── he_B Elham.caption
+│   ├── he_B Elham.png
+│   ├── jim_B Elham.caption
+│   ├── jim_B Elham.png
+│   ├── kaf_B Elham.caption
+│   ├── kaf_B Elham.png
+│   ├── khe_B Elham.caption
+│   ├── khe_B Elham.png
+│   ├── lam_B Elham.caption
+│   ├── lam_B Elham.png
+│   ├── mim_B Elham.caption
+│   ├── mim_B Elham.png
+│   ├── nun_B Elham.caption
+│   ├── nun_B Elham.png
+│   ├── peh_B Elham.caption
+│   ├── peh_B Elham.png
+│   ├── qaf_B Elham.caption
+│   ├── qaf_B Elham.png
+│   ├── re_B Elham.caption
+│   ├── re_B Elham.png
+│   ├── sad_B Elham.caption
+│   ├── sad_B Elham.png
+│   ├── shin_B Elham.caption
+│   ├── shin_B Elham.png
+│   ├── sin_B Elham.caption
+│   ├── sin_B Elham.png
+│   ├── taa_B Elham.caption
+│   ├── taa_B Elham.png
+│   ├── teh_B Elham.caption
+│   ├── teh_B Elham.png
+│   ├── theh_B Elham.caption
+│   ├── theh_B Elham.png
+│   ├── vav_B Elham.caption
+│   ├── vav_B Elham.png
+│   ├── yaa_B Elham.caption
+│   ├── yaa_B Elham.png
+│   ├── zaa_B Elham.caption
+│   ├── zaa_B Elham.png
+│   ├── zaal_B Elham.caption
+│   ├── zaal_B Elham.png
+│   ├── zad_B Elham.caption
+│   ├── zad_B Elham.png
+│   ├── ze_B Elham.caption
+│   ├── ze_B Elham.png
+│   ├── zhe_B Elham.caption
+│   └── zhe_B Elham.png
+├── B Elm
+│   ├── aleph_B Elm.caption
+│   ├── aleph_B Elm.png
+│   ├── ayn_B Elm.caption
+│   ├── ayn_B Elm.png
+│   ├── beh_B Elm.caption
+│   ├── beh_B Elm.png
+│   ├── che_B Elm.caption
+│   ├── che_B Elm.png
+│   ├── daal_B Elm.caption
+│   ├── daal_B Elm.png
+│   ├── feh_B Elm.caption
+│   ├── feh_B Elm.png
+│   ├── gaf_B Elm.caption
+│   ├── gaf_B Elm.png
+│   ├── ghayn_B Elm.caption
+│   ├── ghayn_B Elm.png
+│   ├── he jimi_B Elm.caption
+│   ├── he jimi_B Elm.png
+│   ├── he_B Elm.caption
+│   ├── he_B Elm.png
+│   ├── jim_B Elm.caption
+│   ├── jim_B Elm.png
+│   ├── kaf_B Elm.caption
+│   ├── kaf_B Elm.png
+│   ├── khe_B Elm.caption
+│   ├── khe_B Elm.png
+│   ├── lam_B Elm.caption
+│   ├── lam_B Elm.png
+│   ├── mim_B Elm.caption
+│   ├── mim_B Elm.png
+│   ├── nun_B Elm.caption
+│   ├── nun_B Elm.png
+│   ├── peh_B Elm.caption
+│   ├── peh_B Elm.png
+│   ├── qaf_B Elm.caption
+│   ├── qaf_B Elm.png
+│   ├── re_B Elm.caption
+│   ├── re_B Elm.png
+│   ├── sad_B Elm.caption
+│   ├── sad_B Elm.png
+│   ├── shin_B Elm.caption
+│   ├── shin_B Elm.png
+│   ├── sin_B Elm.caption
+│   ├── sin_B Elm.png
+│   ├── taa_B Elm.caption
+│   ├── taa_B Elm.png
+│   ├── teh_B Elm.caption
+│   ├── teh_B Elm.png
+│   ├── theh_B Elm.caption
+│   ├── theh_B Elm.png
+│   ├── vav_B Elm.caption
+│   ├── vav_B Elm.png
+│   ├── yaa_B Elm.caption
+│   ├── yaa_B Elm.png
+│   ├── zaa_B Elm.caption
+│   ├── zaa_B Elm.png
+│   ├── zaal_B Elm.caption
+│   ├── zaal_B Elm.png
+│   ├── zad_B Elm.caption
+│   ├── zad_B Elm.png
+│   ├── ze_B Elm.caption
+│   ├── ze_B Elm.png
+│   ├── zhe_B Elm.caption
+│   └── zhe_B Elm.png
+├── B Koodak Bold
+│   ├── aleph_B Koodak Bold.caption
+│   ├── aleph_B Koodak Bold.png
+│   ├── ayn_B Koodak Bold.caption
+│   ├── ayn_B Koodak Bold.png
+│   ├── beh_B Koodak Bold.caption
+│   ├── beh_B Koodak Bold.png
+│   ├── che_B Koodak Bold.caption
+│   ├── che_B Koodak Bold.png
+│   ├── daal_B Koodak Bold.caption
+│   ├── daal_B Koodak Bold.png
+│   ├── feh_B Koodak Bold.caption
+│   ├── feh_B Koodak Bold.png
+│   ├── gaf_B Koodak Bold.caption
+│   ├── gaf_B Koodak Bold.png
+│   ├── ghayn_B Koodak Bold.caption
+│   ├── ghayn_B Koodak Bold.png
+│   ├── he jimi_B Koodak Bold.caption
+│   ├── he jimi_B Koodak Bold.png
+│   ├── he_B Koodak Bold.caption
+│   ├── he_B Koodak Bold.png
+│   ├── jim_B Koodak Bold.caption
+│   ├── jim_B Koodak Bold.png
+│   ├── kaf_B Koodak Bold.caption
+│   ├── kaf_B Koodak Bold.png
+│   ├── khe_B Koodak Bold.caption
+│   ├── khe_B Koodak Bold.png
+│   ├── lam_B Koodak Bold.caption
+│   ├── lam_B Koodak Bold.png
+│   ├── mim_B Koodak Bold.caption
+│   ├── mim_B Koodak Bold.png
+│   ├── nun_B Koodak Bold.caption
+│   ├── nun_B Koodak Bold.png
+│   ├── peh_B Koodak Bold.caption
+│   ├── peh_B Koodak Bold.png
+│   ├── qaf_B Koodak Bold.caption
+│   ├── qaf_B Koodak Bold.png
+│   ├── re_B Koodak Bold.caption
+│   ├── re_B Koodak Bold.png
+│   ├── sad_B Koodak Bold.caption
+│   ├── sad_B Koodak Bold.png
+│   ├── shin_B Koodak Bold.caption
+│   ├── shin_B Koodak Bold.png
+│   ├── sin_B Koodak Bold.caption
+│   ├── sin_B Koodak Bold.png
+│   ├── taa_B Koodak Bold.caption
+│   ├── taa_B Koodak Bold.png
+│   ├── teh_B Koodak Bold.caption
+│   ├── teh_B Koodak Bold.png
+│   ├── theh_B Koodak Bold.caption
+│   ├── theh_B Koodak Bold.png
+│   ├── vav_B Koodak Bold.caption
+│   ├── vav_B Koodak Bold.png
+│   ├── yaa_B Koodak Bold.caption
+│   ├── yaa_B Koodak Bold.png
+│   ├── zaa_B Koodak Bold.caption
+│   ├── zaa_B Koodak Bold.png
+│   ├── zaal_B Koodak Bold.caption
+│   ├── zaal_B Koodak Bold.png
+│   ├── zad_B Koodak Bold.caption
+│   ├── zad_B Koodak Bold.png
+│   ├── ze_B Koodak Bold.caption
+│   ├── ze_B Koodak Bold.png
+│   ├── zhe_B Koodak Bold.caption
+│   └── zhe_B Koodak Bold.png
+├── B Nasim Bold
+│   ├── aleph_B Nasim Bold.caption
+│   ├── aleph_B Nasim Bold.png
+│   ├── ayn_B Nasim Bold.caption
+│   ├── ayn_B Nasim Bold.png
+│   ├── beh_B Nasim Bold.caption
+│   ├── beh_B Nasim Bold.png
+│   ├── che_B Nasim Bold.caption
+│   ├── che_B Nasim Bold.png
+│   ├── daal_B Nasim Bold.caption
+│   ├── daal_B Nasim Bold.png
+│   ├── feh_B Nasim Bold.caption
+│   ├── feh_B Nasim Bold.png
+│   ├── gaf_B Nasim Bold.caption
+│   ├── gaf_B Nasim Bold.png
+│   ├── ghayn_B Nasim Bold.caption
+│   ├── ghayn_B Nasim Bold.png
+│   ├── he jimi_B Nasim Bold.caption
+│   ├── he jimi_B Nasim Bold.png
+│   ├── he_B Nasim Bold.caption
+│   ├── he_B Nasim Bold.png
+│   ├── jim_B Nasim Bold.caption
+│   ├── jim_B Nasim Bold.png
+│   ├── kaf_B Nasim Bold.caption
+│   ├── kaf_B Nasim Bold.png
+│   ├── khe_B Nasim Bold.caption
+│   ├── khe_B Nasim Bold.png
+│   ├── lam_B Nasim Bold.caption
+│   ├── lam_B Nasim Bold.png
+│   ├── mim_B Nasim Bold.caption
+│   ├── mim_B Nasim Bold.png
+│   ├── nun_B Nasim Bold.caption
+│   ├── nun_B Nasim Bold.png
+│   ├── peh_B Nasim Bold.caption
+│   ├── peh_B Nasim Bold.png
+│   ├── qaf_B Nasim Bold.caption
+│   ├── qaf_B Nasim Bold.png
+│   ├── re_B Nasim Bold.caption
+│   ├── re_B Nasim Bold.png
+│   ├── sad_B Nasim Bold.caption
+│   ├── sad_B Nasim Bold.png
+│   ├── shin_B Nasim Bold.caption
+│   ├── shin_B Nasim Bold.png
+│   ├── sin_B Nasim Bold.caption
+│   ├── sin_B Nasim Bold.png
+│   ├── taa_B Nasim Bold.caption
+│   ├── taa_B Nasim Bold.png
+│   ├── teh_B Nasim Bold.caption
+│   ├── teh_B Nasim Bold.png
+│   ├── theh_B Nasim Bold.caption
+│   ├── theh_B Nasim Bold.png
+│   ├── vav_B Nasim Bold.caption
+│   ├── vav_B Nasim Bold.png
+│   ├── yaa_B Nasim Bold.caption
+│   ├── yaa_B Nasim Bold.png
+│   ├── zaa_B Nasim Bold.caption
+│   ├── zaa_B Nasim Bold.png
+│   ├── zaal_B Nasim Bold.caption
+│   ├── zaal_B Nasim Bold.png
+│   ├── zad_B Nasim Bold.caption
+│   ├── zad_B Nasim Bold.png
+│   ├── ze_B Nasim Bold.caption
+│   ├── ze_B Nasim Bold.png
+│   ├── zhe_B Nasim Bold.caption
+│   └── zhe_B Nasim Bold.png
+├── B Nazanin
+│   ├── aleph_B Nazanin.caption
+│   ├── aleph_B Nazanin.png
+│   ├── ayn_B Nazanin.caption
+│   ├── ayn_B Nazanin.png
+│   ├── beh_B Nazanin.caption
+│   ├── beh_B Nazanin.png
+│   ├── che_B Nazanin.caption
+│   ├── che_B Nazanin.png
+│   ├── daal_B Nazanin.caption
+│   ├── daal_B Nazanin.png
+│   ├── feh_B Nazanin.caption
+│   ├── feh_B Nazanin.png
+│   ├── gaf_B Nazanin.caption
+│   ├── gaf_B Nazanin.png
+│   ├── ghayn_B Nazanin.caption
+│   ├── ghayn_B Nazanin.png
+│   ├── he jimi_B Nazanin.caption
+│   ├── he jimi_B Nazanin.png
+│   ├── he_B Nazanin.caption
+│   ├── he_B Nazanin.png
+│   ├── jim_B Nazanin.caption
+│   ├── jim_B Nazanin.png
+│   ├── kaf_B Nazanin.caption
+│   ├── kaf_B Nazanin.png
+│   ├── khe_B Nazanin.caption
+│   ├── khe_B Nazanin.png
+│   ├── lam_B Nazanin.caption
+│   ├── lam_B Nazanin.png
+│   ├── mim_B Nazanin.caption
+│   ├── mim_B Nazanin.png
+│   ├── nun_B Nazanin.caption
+│   ├── nun_B Nazanin.png
+│   ├── peh_B Nazanin.caption
+│   ├── peh_B Nazanin.png
+│   ├── qaf_B Nazanin.caption
+│   ├── qaf_B Nazanin.png
+│   ├── re_B Nazanin.caption
+│   ├── re_B Nazanin.png
+│   ├── sad_B Nazanin.caption
+│   ├── sad_B Nazanin.png
+│   ├── shin_B Nazanin.caption
+│   ├── shin_B Nazanin.png
+│   ├── sin_B Nazanin.caption
+│   ├── sin_B Nazanin.png
+│   ├── taa_B Nazanin.caption
+│   ├── taa_B Nazanin.png
+│   ├── teh_B Nazanin.caption
+│   ├── teh_B Nazanin.png
+│   ├── theh_B Nazanin.caption
+│   ├── theh_B Nazanin.png
+│   ├── vav_B Nazanin.caption
+│   ├── vav_B Nazanin.png
+│   ├── yaa_B Nazanin.caption
+│   ├── yaa_B Nazanin.png
+│   ├── zaa_B Nazanin.caption
+│   ├── zaa_B Nazanin.png
+│   ├── zaal_B Nazanin.caption
+│   ├── zaal_B Nazanin.png
+│   ├── zad_B Nazanin.caption
+│   ├── zad_B Nazanin.png
+│   ├── ze_B Nazanin.caption
+│   ├── ze_B Nazanin.png
+│   ├── zhe_B Nazanin.caption
+│   └── zhe_B Nazanin.png
+├── B Nazanin Bold
+│   ├── aleph_B Nazanin Bold.caption
+│   ├── aleph_B Nazanin Bold.png
+│   ├── ayn_B Nazanin Bold.caption
+│   ├── ayn_B Nazanin Bold.png
+│   ├── beh_B Nazanin Bold.caption
+│   ├── beh_B Nazanin Bold.png
+│   ├── che_B Nazanin Bold.caption
+│   ├── che_B Nazanin Bold.png
+│   ├── daal_B Nazanin Bold.caption
+│   ├── daal_B Nazanin Bold.png
+│   ├── feh_B Nazanin Bold.caption
+│   ├── feh_B Nazanin Bold.png
+│   ├── gaf_B Nazanin Bold.caption
+│   ├── gaf_B Nazanin Bold.png
+│   ├── ghayn_B Nazanin Bold.caption
+│   ├── ghayn_B Nazanin Bold.png
+│   ├── he jimi_B Nazanin Bold.caption
+│   ├── he jimi_B Nazanin Bold.png
+│   ├── he_B Nazanin Bold.caption
+│   ├── he_B Nazanin Bold.png
+│   ├── jim_B Nazanin Bold.caption
+│   ├── jim_B Nazanin Bold.png
+│   ├── kaf_B Nazanin Bold.caption
+│   ├── kaf_B Nazanin Bold.png
+│   ├── khe_B Nazanin Bold.caption
+│   ├── khe_B Nazanin Bold.png
+│   ├── lam_B Nazanin Bold.caption
+│   ├── lam_B Nazanin Bold.png
+│   ├── mim_B Nazanin Bold.caption
+│   ├── mim_B Nazanin Bold.png
+│   ├── nun_B Nazanin Bold.caption
+│   ├── nun_B Nazanin Bold.png
+│   ├── peh_B Nazanin Bold.caption
+│   ├── peh_B Nazanin Bold.png
+│   ├── qaf_B Nazanin Bold.caption
+│   ├── qaf_B Nazanin Bold.png
+│   ├── re_B Nazanin Bold.caption
+│   ├── re_B Nazanin Bold.png
+│   ├── sad_B Nazanin Bold.caption
+│   ├── sad_B Nazanin Bold.png
+│   ├── shin_B Nazanin Bold.caption
+│   ├── shin_B Nazanin Bold.png
+│   ├── sin_B Nazanin Bold.caption
+│   ├── sin_B Nazanin Bold.png
+│   ├── taa_B Nazanin Bold.caption
+│   ├── taa_B Nazanin Bold.png
+│   ├── teh_B Nazanin Bold.caption
+│   ├── teh_B Nazanin Bold.png
+│   ├── theh_B Nazanin Bold.caption
+│   ├── theh_B Nazanin Bold.png
+│   ├── vav_B Nazanin Bold.caption
+│   ├── vav_B Nazanin Bold.png
+│   ├── yaa_B Nazanin Bold.caption
+│   ├── yaa_B Nazanin Bold.png
+│   ├── zaa_B Nazanin Bold.caption
+│   ├── zaa_B Nazanin Bold.png
+│   ├── zaal_B Nazanin Bold.caption
+│   ├── zaal_B Nazanin Bold.png
+│   ├── zad_B Nazanin Bold.caption
+│   ├── zad_B Nazanin Bold.png
+│   ├── ze_B Nazanin Bold.caption
+│   ├── ze_B Nazanin Bold.png
+│   ├── zhe_B Nazanin Bold.caption
+│   └── zhe_B Nazanin Bold.png
+├── B Roya
+│   ├── aleph_B Roya.caption
+│   ├── aleph_B Roya.png
+│   ├── ayn_B Roya.caption
+│   ├── ayn_B Roya.png
+│   ├── beh_B Roya.caption
+│   ├── beh_B Roya.png
+│   ├── che_B Roya.caption
+│   ├── che_B Roya.png
+│   ├── daal_B Roya.caption
+│   ├── daal_B Roya.png
+│   ├── feh_B Roya.caption
+│   ├── feh_B Roya.png
+│   ├── gaf_B Roya.caption
+│   ├── gaf_B Roya.png
+│   ├── ghayn_B Roya.caption
+│   ├── ghayn_B Roya.png
+│   ├── he jimi_B Roya.caption
+│   ├── he jimi_B Roya.png
+│   ├── he_B Roya.caption
+│   ├── he_B Roya.png
+│   ├── jim_B Roya.caption
+│   ├── jim_B Roya.png
+│   ├── kaf_B Roya.caption
+│   ├── kaf_B Roya.png
+│   ├── khe_B Roya.caption
+│   ├── khe_B Roya.png
+│   ├── lam_B Roya.caption
+│   ├── lam_B Roya.png
+│   ├── mim_B Roya.caption
+│   ├── mim_B Roya.png
+│   ├── nun_B Roya.caption
+│   ├── nun_B Roya.png
+│   ├── peh_B Roya.caption
+│   ├── peh_B Roya.png
+│   ├── qaf_B Roya.caption
+│   ├── qaf_B Roya.png
+│   ├── re_B Roya.caption
+│   ├── re_B Roya.png
+│   ├── sad_B Roya.caption
+│   ├── sad_B Roya.png
+│   ├── shin_B Roya.caption
+│   ├── shin_B Roya.png
+│   ├── sin_B Roya.caption
+│   ├── sin_B Roya.png
+│   ├── taa_B Roya.caption
+│   ├── taa_B Roya.png
+│   ├── teh_B Roya.caption
+│   ├── teh_B Roya.png
+│   ├── theh_B Roya.caption
+│   ├── theh_B Roya.png
+│   ├── vav_B Roya.caption
+│   ├── vav_B Roya.png
+│   ├── yaa_B Roya.caption
+│   ├── yaa_B Roya.png
+│   ├── zaa_B Roya.caption
+│   ├── zaa_B Roya.png
+│   ├── zaal_B Roya.caption
+│   ├── zaal_B Roya.png
+│   ├── zad_B Roya.caption
+│   ├── zad_B Roya.png
+│   ├── ze_B Roya.caption
+│   ├── ze_B Roya.png
+│   ├── zhe_B Roya.caption
+│   └── zhe_B Roya.png
+├── B Tir
+│   ├── aleph_B Tir.caption
+│   ├── aleph_B Tir.png
+│   ├── ayn_B Tir.caption
+│   ├── ayn_B Tir.png
+│   ├── beh_B Tir.caption
+│   ├── beh_B Tir.png
+│   ├── che_B Tir.caption
+│   ├── che_B Tir.png
+│   ├── daal_B Tir.caption
+│   ├── daal_B Tir.png
+│   ├── feh_B Tir.caption
+│   ├── feh_B Tir.png
+│   ├── gaf_B Tir.caption
+│   ├── gaf_B Tir.png
+│   ├── ghayn_B Tir.caption
+│   ├── ghayn_B Tir.png
+│   ├── he jimi_B Tir.caption
+│   ├── he jimi_B Tir.png
+│   ├── he_B Tir.caption
+│   ├── he_B Tir.png
+│   ├── jim_B Tir.caption
+│   ├── jim_B Tir.png
+│   ├── kaf_B Tir.caption
+│   ├── kaf_B Tir.png
+│   ├── khe_B Tir.caption
+│   ├── khe_B Tir.png
+│   ├── lam_B Tir.caption
+│   ├── lam_B Tir.png
+│   ├── mim_B Tir.caption
+│   ├── mim_B Tir.png
+│   ├── nun_B Tir.caption
+│   ├── nun_B Tir.png
+│   ├── peh_B Tir.caption
+│   ├── peh_B Tir.png
+│   ├── qaf_B Tir.caption
+│   ├── qaf_B Tir.png
+│   ├── re_B Tir.caption
+│   ├── re_B Tir.png
+│   ├── sad_B Tir.caption
+│   ├── sad_B Tir.png
+│   ├── shin_B Tir.caption
+│   ├── shin_B Tir.png
+│   ├── sin_B Tir.caption
+│   ├── sin_B Tir.png
+│   ├── taa_B Tir.caption
+│   ├── taa_B Tir.png
+│   ├── teh_B Tir.caption
+│   ├── teh_B Tir.png
+│   ├── theh_B Tir.caption
+│   ├── theh_B Tir.png
+│   ├── vav_B Tir.caption
+│   ├── vav_B Tir.png
+│   ├── yaa_B Tir.caption
+│   ├── yaa_B Tir.png
+│   ├── zaa_B Tir.caption
+│   ├── zaa_B Tir.png
+│   ├── zaal_B Tir.caption
+│   ├── zaal_B Tir.png
+│   ├── zad_B Tir.caption
+│   ├── zad_B Tir.png
+│   ├── ze_B Tir.caption
+│   ├── ze_B Tir.png
+│   ├── zhe_B Tir.caption
+│   └── zhe_B Tir.png
+├── B Traffic
+│   ├── aleph_B Traffic.caption
+│   ├── aleph_B Traffic.png
+│   ├── ayn_B Traffic.caption
+│   ├── ayn_B Traffic.png
+│   ├── beh_B Traffic.caption
+│   ├── beh_B Traffic.png
+│   ├── che_B Traffic.caption
+│   ├── che_B Traffic.png
+│   ├── daal_B Traffic.caption
+│   ├── daal_B Traffic.png
+│   ├── feh_B Traffic.caption
+│   ├── feh_B Traffic.png
+│   ├── gaf_B Traffic.caption
+│   ├── gaf_B Traffic.png
+│   ├── ghayn_B Traffic.caption
+│   ├── ghayn_B Traffic.png
+│   ├── he jimi_B Traffic.caption
+│   ├── he jimi_B Traffic.png
+│   ├── he_B Traffic.caption
+│   ├── he_B Traffic.png
+│   ├── jim_B Traffic.caption
+│   ├── jim_B Traffic.png
+│   ├── kaf_B Traffic.caption
+│   ├── kaf_B Traffic.png
+│   ├── khe_B Traffic.caption
+│   ├── khe_B Traffic.png
+│   ├── lam_B Traffic.caption
+│   ├── lam_B Traffic.png
+│   ├── mim_B Traffic.caption
+│   ├── mim_B Traffic.png
+│   ├── nun_B Traffic.caption
+│   ├── nun_B Traffic.png
+│   ├── peh_B Traffic.caption
+│   ├── peh_B Traffic.png
+│   ├── qaf_B Traffic.caption
+│   ├── qaf_B Traffic.png
+│   ├── re_B Traffic.caption
+│   ├── re_B Traffic.png
+│   ├── sad_B Traffic.caption
+│   ├── sad_B Traffic.png
+│   ├── shin_B Traffic.caption
+│   ├── shin_B Traffic.png
+│   ├── sin_B Traffic.caption
+│   ├── sin_B Traffic.png
+│   ├── taa_B Traffic.caption
+│   ├── taa_B Traffic.png
+│   ├── teh_B Traffic.caption
+│   ├── teh_B Traffic.png
+│   ├── theh_B Traffic.caption
+│   ├── theh_B Traffic.png
+│   ├── vav_B Traffic.caption
+│   ├── vav_B Traffic.png
+│   ├── yaa_B Traffic.caption
+│   ├── yaa_B Traffic.png
+│   ├── zaa_B Traffic.caption
+│   ├── zaa_B Traffic.png
+│   ├── zaal_B Traffic.caption
+│   ├── zaal_B Traffic.png
+│   ├── zad_B Traffic.caption
+│   ├── zad_B Traffic.png
+│   ├── ze_B Traffic.caption
+│   ├── ze_B Traffic.png
+│   ├── zhe_B Traffic.caption
+│   └── zhe_B Traffic.png
+├── B Traffic Bold
+│   ├── aleph_B Traffic Bold.caption
+│   ├── aleph_B Traffic Bold.png
+│   ├── ayn_B Traffic Bold.caption
+│   ├── ayn_B Traffic Bold.png
+│   ├── beh_B Traffic Bold.caption
+│   ├── beh_B Traffic Bold.png
+│   ├── che_B Traffic Bold.caption
+│   ├── che_B Traffic Bold.png
+│   ├── daal_B Traffic Bold.caption
+│   ├── daal_B Traffic Bold.png
+│   ├── feh_B Traffic Bold.caption
+│   ├── feh_B Traffic Bold.png
+│   ├── gaf_B Traffic Bold.caption
+│   ├── gaf_B Traffic Bold.png
+│   ├── ghayn_B Traffic Bold.caption
+│   ├── ghayn_B Traffic Bold.png
+│   ├── he jimi_B Traffic Bold.caption
+│   ├── he jimi_B Traffic Bold.png
+│   ├── he_B Traffic Bold.caption
+│   ├── he_B Traffic Bold.png
+│   ├── jim_B Traffic Bold.caption
+│   ├── jim_B Traffic Bold.png
+│   ├── kaf_B Traffic Bold.caption
+│   ├── kaf_B Traffic Bold.png
+│   ├── khe_B Traffic Bold.caption
+│   ├── khe_B Traffic Bold.png
+│   ├── lam_B Traffic Bold.caption
+│   ├── lam_B Traffic Bold.png
+│   ├── mim_B Traffic Bold.caption
+│   ├── mim_B Traffic Bold.png
+│   ├── nun_B Traffic Bold.caption
+│   ├── nun_B Traffic Bold.png
+│   ├── peh_B Traffic Bold.caption
+│   ├── peh_B Traffic Bold.png
+│   ├── qaf_B Traffic Bold.caption
+│   ├── qaf_B Traffic Bold.png
+│   ├── re_B Traffic Bold.caption
+│   ├── re_B Traffic Bold.png
+│   ├── sad_B Traffic Bold.caption
+│   ├── sad_B Traffic Bold.png
+│   ├── shin_B Traffic Bold.caption
+│   ├── shin_B Traffic Bold.png
+│   ├── sin_B Traffic Bold.caption
+│   ├── sin_B Traffic Bold.png
+│   ├── taa_B Traffic Bold.caption
+│   ├── taa_B Traffic Bold.png
+│   ├── teh_B Traffic Bold.caption
+│   ├── teh_B Traffic Bold.png
+│   ├── theh_B Traffic Bold.caption
+│   ├── theh_B Traffic Bold.png
+│   ├── vav_B Traffic Bold.caption
+│   ├── vav_B Traffic Bold.png
+│   ├── yaa_B Traffic Bold.caption
+│   ├── yaa_B Traffic Bold.png
+│   ├── zaa_B Traffic Bold.caption
+│   ├── zaa_B Traffic Bold.png
+│   ├── zaal_B Traffic Bold.caption
+│   ├── zaal_B Traffic Bold.png
+│   ├── zad_B Traffic Bold.caption
+│   ├── zad_B Traffic Bold.png
+│   ├── ze_B Traffic Bold.caption
+│   ├── ze_B Traffic Bold.png
+│   ├── zhe_B Traffic Bold.caption
+│   └── zhe_B Traffic Bold.png
+├── B Zar
+│   ├── aleph_B Zar.caption
+│   ├── aleph_B Zar.png
+│   ├── ayn_B Zar.caption
+│   ├── ayn_B Zar.png
+│   ├── beh_B Zar.caption
+│   ├── beh_B Zar.png
+│   ├── che_B Zar.caption
+│   ├── che_B Zar.png
+│   ├── daal_B Zar.caption
+│   ├── daal_B Zar.png
+│   ├── feh_B Zar.caption
+│   ├── feh_B Zar.png
+│   ├── gaf_B Zar.caption
+│   ├── gaf_B Zar.png
+│   ├── ghayn_B Zar.caption
+│   ├── ghayn_B Zar.png
+│   ├── he jimi_B Zar.caption
+│   ├── he jimi_B Zar.png
+│   ├── he_B Zar.caption
+│   ├── he_B Zar.png
+│   ├── jim_B Zar.caption
+│   ├── jim_B Zar.png
+│   ├── kaf_B Zar.caption
+│   ├── kaf_B Zar.png
+│   ├── khe_B Zar.caption
+│   ├── khe_B Zar.png
+│   ├── lam_B Zar.caption
+│   ├── lam_B Zar.png
+│   ├── mim_B Zar.caption
+│   ├── mim_B Zar.png
+│   ├── nun_B Zar.caption
+│   ├── nun_B Zar.png
+│   ├── peh_B Zar.caption
+│   ├── peh_B Zar.png
+│   ├── qaf_B Zar.caption
+│   ├── qaf_B Zar.png
+│   ├── re_B Zar.caption
+│   ├── re_B Zar.png
+│   ├── sad_B Zar.caption
+│   ├── sad_B Zar.png
+│   ├── shin_B Zar.caption
+│   ├── shin_B Zar.png
+│   ├── sin_B Zar.caption
+│   ├── sin_B Zar.png
+│   ├── taa_B Zar.caption
+│   ├── taa_B Zar.png
+│   ├── teh_B Zar.caption
+│   ├── teh_B Zar.png
+│   ├── theh_B Zar.caption
+│   ├── theh_B Zar.png
+│   ├── vav_B Zar.caption
+│   ├── vav_B Zar.png
+│   ├── yaa_B Zar.caption
+│   ├── yaa_B Zar.png
+│   ├── zaa_B Zar.caption
+│   ├── zaa_B Zar.png
+│   ├── zaal_B Zar.caption
+│   ├── zaal_B Zar.png
+│   ├── zad_B Zar.caption
+│   ├── zad_B Zar.png
+│   ├── ze_B Zar.caption
+│   ├── ze_B Zar.png
+│   ├── zhe_B Zar.caption
+│   └── zhe_B Zar.png
+├── Estedad-Black
+│   ├── aleph_Estedad-Black.caption
+│   ├── aleph_Estedad-Black.png
+│   ├── ayn_Estedad-Black.caption
+│   ├── ayn_Estedad-Black.png
+│   ├── beh_Estedad-Black.caption
+│   ├── beh_Estedad-Black.png
+│   ├── che_Estedad-Black.caption
+│   ├── che_Estedad-Black.png
+│   ├── daal_Estedad-Black.caption
+│   ├── daal_Estedad-Black.png
+│   ├── feh_Estedad-Black.caption
+│   ├── feh_Estedad-Black.png
+│   ├── gaf_Estedad-Black.caption
+│   ├── gaf_Estedad-Black.png
+│   ├── ghayn_Estedad-Black.caption
+│   ├── ghayn_Estedad-Black.png
+│   ├── he jimi_Estedad-Black.caption
+│   ├── he jimi_Estedad-Black.png
+│   ├── he_Estedad-Black.caption
+│   ├── he_Estedad-Black.png
+│   ├── jim_Estedad-Black.caption
+│   ├── jim_Estedad-Black.png
+│   ├── kaf_Estedad-Black.caption
+│   ├── kaf_Estedad-Black.png
+│   ├── khe_Estedad-Black.caption
+│   ├── khe_Estedad-Black.png
+│   ├── lam_Estedad-Black.caption
+│   ├── lam_Estedad-Black.png
+│   ├── mim_Estedad-Black.caption
+│   ├── mim_Estedad-Black.png
+│   ├── nun_Estedad-Black.caption
+│   ├── nun_Estedad-Black.png
+│   ├── peh_Estedad-Black.caption
+│   ├── peh_Estedad-Black.png
+│   ├── qaf_Estedad-Black.caption
+│   ├── qaf_Estedad-Black.png
+│   ├── re_Estedad-Black.caption
+│   ├── re_Estedad-Black.png
+│   ├── sad_Estedad-Black.caption
+│   ├── sad_Estedad-Black.png
+│   ├── shin_Estedad-Black.caption
+│   ├── shin_Estedad-Black.png
+│   ├── sin_Estedad-Black.caption
+│   ├── sin_Estedad-Black.png
+│   ├── taa_Estedad-Black.caption
+│   ├── taa_Estedad-Black.png
+│   ├── teh_Estedad-Black.caption
+│   ├── teh_Estedad-Black.png
+│   ├── theh_Estedad-Black.caption
+│   ├── theh_Estedad-Black.png
+│   ├── vav_Estedad-Black.caption
+│   ├── vav_Estedad-Black.png
+│   ├── yaa_Estedad-Black.caption
+│   ├── yaa_Estedad-Black.png
+│   ├── zaa_Estedad-Black.caption
+│   ├── zaa_Estedad-Black.png
+│   ├── zaal_Estedad-Black.caption
+│   ├── zaal_Estedad-Black.png
+│   ├── zad_Estedad-Black.caption
+│   ├── zad_Estedad-Black.png
+│   ├── ze_Estedad-Black.caption
+│   ├── ze_Estedad-Black.png
+│   ├── zhe_Estedad-Black.caption
+│   └── zhe_Estedad-Black.png
+├── Gandom
+│   ├── aleph_Gandom.caption
+│   ├── aleph_Gandom.png
+│   ├── ayn_Gandom.caption
+│   ├── ayn_Gandom.png
+│   ├── beh_Gandom.caption
+│   ├── beh_Gandom.png
+│   ├── che_Gandom.caption
+│   ├── che_Gandom.png
+│   ├── daal_Gandom.caption
+│   ├── daal_Gandom.png
+│   ├── feh_Gandom.caption
+│   ├── feh_Gandom.png
+│   ├── gaf_Gandom.caption
+│   ├── gaf_Gandom.png
+│   ├── ghayn_Gandom.caption
+│   ├── ghayn_Gandom.png
+│   ├── he jimi_Gandom.caption
+│   ├── he jimi_Gandom.png
+│   ├── he_Gandom.caption
+│   ├── he_Gandom.png
+│   ├── jim_Gandom.caption
+│   ├── jim_Gandom.png
+│   ├── kaf_Gandom.caption
+│   ├── kaf_Gandom.png
+│   ├── khe_Gandom.caption
+│   ├── khe_Gandom.png
+│   ├── lam_Gandom.caption
+│   ├── lam_Gandom.png
+│   ├── mim_Gandom.caption
+│   ├── mim_Gandom.png
+│   ├── nun_Gandom.caption
+│   ├── nun_Gandom.png
+│   ├── peh_Gandom.caption
+│   ├── peh_Gandom.png
+│   ├── qaf_Gandom.caption
+│   ├── qaf_Gandom.png
+│   ├── re_Gandom.caption
+│   ├── re_Gandom.png
+│   ├── sad_Gandom.caption
+│   ├── sad_Gandom.png
+│   ├── shin_Gandom.caption
+│   ├── shin_Gandom.png
+│   ├── sin_Gandom.caption
+│   ├── sin_Gandom.png
+│   ├── taa_Gandom.caption
+│   ├── taa_Gandom.png
+│   ├── teh_Gandom.caption
+│   ├── teh_Gandom.png
+│   ├── theh_Gandom.caption
+│   ├── theh_Gandom.png
+│   ├── vav_Gandom.caption
+│   ├── vav_Gandom.png
+│   ├── yaa_Gandom.caption
+│   ├── yaa_Gandom.png
+│   ├── zaa_Gandom.caption
+│   ├── zaa_Gandom.png
+│   ├── zaal_Gandom.caption
+│   ├── zaal_Gandom.png
+│   ├── zad_Gandom.caption
+│   ├── zad_Gandom.png
+│   ├── ze_Gandom.caption
+│   ├── ze_Gandom.png
+│   ├── zhe_Gandom.caption
+│   └── zhe_Gandom.png
+├── Parastoo
+│   ├── aleph_Parastoo.caption
+│   ├── aleph_Parastoo.png
+│   ├── ayn_Parastoo.caption
+│   ├── ayn_Parastoo.png
+│   ├── beh_Parastoo.caption
+│   ├── beh_Parastoo.png
+│   ├── che_Parastoo.caption
+│   ├── che_Parastoo.png
+│   ├── daal_Parastoo.caption
+│   ├── daal_Parastoo.png
+│   ├── feh_Parastoo.caption
+│   ├── feh_Parastoo.png
+│   ├── gaf_Parastoo.caption
+│   ├── gaf_Parastoo.png
+│   ├── ghayn_Parastoo.caption
+│   ├── ghayn_Parastoo.png
+│   ├── he jimi_Parastoo.caption
+│   ├── he jimi_Parastoo.png
+│   ├── he_Parastoo.caption
+│   ├── he_Parastoo.png
+│   ├── jim_Parastoo.caption
+│   ├── jim_Parastoo.png
+│   ├── kaf_Parastoo.caption
+│   ├── kaf_Parastoo.png
+│   ├── khe_Parastoo.caption
+│   ├── khe_Parastoo.png
+│   ├── lam_Parastoo.caption
+│   ├── lam_Parastoo.png
+│   ├── mim_Parastoo.caption
+│   ├── mim_Parastoo.png
+│   ├── nun_Parastoo.caption
+│   ├── nun_Parastoo.png
+│   ├── peh_Parastoo.caption
+│   ├── peh_Parastoo.png
+│   ├── qaf_Parastoo.caption
+│   ├── qaf_Parastoo.png
+│   ├── re_Parastoo.caption
+│   ├── re_Parastoo.png
+│   ├── sad_Parastoo.caption
+│   ├── sad_Parastoo.png
+│   ├── shin_Parastoo.caption
+│   ├── shin_Parastoo.png
+│   ├── sin_Parastoo.caption
+│   ├── sin_Parastoo.png
+│   ├── taa_Parastoo.caption
+│   ├── taa_Parastoo.png
+│   ├── teh_Parastoo.caption
+│   ├── teh_Parastoo.png
+│   ├── theh_Parastoo.caption
+│   ├── theh_Parastoo.png
+│   ├── vav_Parastoo.caption
+│   ├── vav_Parastoo.png
+│   ├── yaa_Parastoo.caption
+│   ├── yaa_Parastoo.png
+│   ├── zaa_Parastoo.caption
+│   ├── zaa_Parastoo.png
+│   ├── zaal_Parastoo.caption
+│   ├── zaal_Parastoo.png
+│   ├── zad_Parastoo.caption
+│   ├── zad_Parastoo.png
+│   ├── ze_Parastoo.caption
+│   ├── ze_Parastoo.png
+│   ├── zhe_Parastoo.caption
+│   └── zhe_Parastoo.png
+├── Sahel
+│   ├── aleph_Sahel.caption
+│   ├── aleph_Sahel.png
+│   ├── ayn_Sahel.caption
+│   ├── ayn_Sahel.png
+│   ├── beh_Sahel.caption
+│   ├── beh_Sahel.png
+│   ├── che_Sahel.caption
+│   ├── che_Sahel.png
+│   ├── daal_Sahel.caption
+│   ├── daal_Sahel.png
+│   ├── feh_Sahel.caption
+│   ├── feh_Sahel.png
+│   ├── gaf_Sahel.caption
+│   ├── gaf_Sahel.png
+│   ├── ghayn_Sahel.caption
+│   ├── ghayn_Sahel.png
+│   ├── he jimi_Sahel.caption
+│   ├── he jimi_Sahel.png
+│   ├── he_Sahel.caption
+│   ├── he_Sahel.png
+│   ├── jim_Sahel.caption
+│   ├── jim_Sahel.png
+│   ├── kaf_Sahel.caption
+│   ├── kaf_Sahel.png
+│   ├── khe_Sahel.caption
+│   ├── khe_Sahel.png
+│   ├── lam_Sahel.caption
+│   ├── lam_Sahel.png
+│   ├── mim_Sahel.caption
+│   ├── mim_Sahel.png
+│   ├── nun_Sahel.caption
+│   ├── nun_Sahel.png
+│   ├── peh_Sahel.caption
+│   ├── peh_Sahel.png
+│   ├── qaf_Sahel.caption
+│   ├── qaf_Sahel.png
+│   ├── re_Sahel.caption
+│   ├── re_Sahel.png
+│   ├── sad_Sahel.caption
+│   ├── sad_Sahel.png
+│   ├── shin_Sahel.caption
+│   ├── shin_Sahel.png
+│   ├── sin_Sahel.caption
+│   ├── sin_Sahel.png
+│   ├── taa_Sahel.caption
+│   ├── taa_Sahel.png
+│   ├── teh_Sahel.caption
+│   ├── teh_Sahel.png
+│   ├── theh_Sahel.caption
+│   ├── theh_Sahel.png
+│   ├── vav_Sahel.caption
+│   ├── vav_Sahel.png
+│   ├── yaa_Sahel.caption
+│   ├── yaa_Sahel.png
+│   ├── zaa_Sahel.caption
+│   ├── zaa_Sahel.png
+│   ├── zaal_Sahel.caption
+│   ├── zaal_Sahel.png
+│   ├── zad_Sahel.caption
+│   ├── zad_Sahel.png
+│   ├── ze_Sahel.caption
+│   ├── ze_Sahel.png
+│   ├── zhe_Sahel.caption
+│   └── zhe_Sahel.png
+├── Samim
+│   ├── aleph_Samim.caption
+│   ├── aleph_Samim.png
+│   ├── ayn_Samim.caption
+│   ├── ayn_Samim.png
+│   ├── beh_Samim.caption
+│   ├── beh_Samim.png
+│   ├── che_Samim.caption
+│   ├── che_Samim.png
+│   ├── daal_Samim.caption
+│   ├── daal_Samim.png
+│   ├── feh_Samim.caption
+│   ├── feh_Samim.png
+│   ├── gaf_Samim.caption
+│   ├── gaf_Samim.png
+│   ├── ghayn_Samim.caption
+│   ├── ghayn_Samim.png
+│   ├── he jimi_Samim.caption
+│   ├── he jimi_Samim.png
+│   ├── he_Samim.caption
+│   ├── he_Samim.png
+│   ├── jim_Samim.caption
+│   ├── jim_Samim.png
+│   ├── kaf_Samim.caption
+│   ├── kaf_Samim.png
+│   ├── khe_Samim.caption
+│   ├── khe_Samim.png
+│   ├── lam_Samim.caption
+│   ├── lam_Samim.png
+│   ├── mim_Samim.caption
+│   ├── mim_Samim.png
+│   ├── nun_Samim.caption
+│   ├── nun_Samim.png
+│   ├── peh_Samim.caption
+│   ├── peh_Samim.png
+│   ├── qaf_Samim.caption
+│   ├── qaf_Samim.png
+│   ├── re_Samim.caption
+│   ├── re_Samim.png
+│   ├── sad_Samim.caption
+│   ├── sad_Samim.png
+│   ├── shin_Samim.caption
+│   ├── shin_Samim.png
+│   ├── sin_Samim.caption
+│   ├── sin_Samim.png
+│   ├── taa_Samim.caption
+│   ├── taa_Samim.png
+│   ├── teh_Samim.caption
+│   ├── teh_Samim.png
+│   ├── theh_Samim.caption
+│   ├── theh_Samim.png
+│   ├── vav_Samim.caption
+│   ├── vav_Samim.png
+│   ├── yaa_Samim.caption
+│   ├── yaa_Samim.png
+│   ├── zaa_Samim.caption
+│   ├── zaa_Samim.png
+│   ├── zaal_Samim.caption
+│   ├── zaal_Samim.png
+│   ├── zad_Samim.caption
+│   ├── zad_Samim.png
+│   ├── ze_Samim.caption
+│   ├── ze_Samim.png
+│   ├── zhe_Samim.caption
+│   └── zhe_Samim.png
+├── Tanha
+│   ├── aleph_Tanha.caption
+│   ├── aleph_Tanha.png
+│   ├── ayn_Tanha.caption
+│   ├── ayn_Tanha.png
+│   ├── beh_Tanha.caption
+│   ├── beh_Tanha.png
+│   ├── che_Tanha.caption
+│   ├── che_Tanha.png
+│   ├── daal_Tanha.caption
+│   ├── daal_Tanha.png
+│   ├── feh_Tanha.caption
+│   ├── feh_Tanha.png
+│   ├── gaf_Tanha.caption
+│   ├── gaf_Tanha.png
+│   ├── ghayn_Tanha.caption
+│   ├── ghayn_Tanha.png
+│   ├── he jimi_Tanha.caption
+│   ├── he jimi_Tanha.png
+│   ├── he_Tanha.caption
+│   ├── he_Tanha.png
+│   ├── jim_Tanha.caption
+│   ├── jim_Tanha.png
+│   ├── kaf_Tanha.caption
+│   ├── kaf_Tanha.png
+│   ├── khe_Tanha.caption
+│   ├── khe_Tanha.png
+│   ├── lam_Tanha.caption
+│   ├── lam_Tanha.png
+│   ├── mim_Tanha.caption
+│   ├── mim_Tanha.png
+│   ├── nun_Tanha.caption
+│   ├── nun_Tanha.png
+│   ├── peh_Tanha.caption
+│   ├── peh_Tanha.png
+│   ├── qaf_Tanha.caption
+│   ├── qaf_Tanha.png
+│   ├── re_Tanha.caption
+│   ├── re_Tanha.png
+│   ├── sad_Tanha.caption
+│   ├── sad_Tanha.png
+│   ├── shin_Tanha.caption
+│   ├── shin_Tanha.png
+│   ├── sin_Tanha.caption
+│   ├── sin_Tanha.png
+│   ├── taa_Tanha.caption
+│   ├── taa_Tanha.png
+│   ├── teh_Tanha.caption
+│   ├── teh_Tanha.png
+│   ├── theh_Tanha.caption
+│   ├── theh_Tanha.png
+│   ├── vav_Tanha.caption
+│   ├── vav_Tanha.png
+│   ├── yaa_Tanha.caption
+│   ├── yaa_Tanha.png
+│   ├── zaa_Tanha.caption
+│   ├── zaa_Tanha.png
+│   ├── zaal_Tanha.caption
+│   ├── zaal_Tanha.png
+│   ├── zad_Tanha.caption
+│   ├── zad_Tanha.png
+│   ├── ze_Tanha.caption
+│   ├── ze_Tanha.png
+│   ├── zhe_Tanha.caption
+│   └── zhe_Tanha.png
+├── Vazir
+│   ├── aleph_Vazir.caption
+│   ├── aleph_Vazir.png
+│   ├── ayn_Vazir.caption
+│   ├── ayn_Vazir.png
+│   ├── beh_Vazir.caption
+│   ├── beh_Vazir.png
+│   ├── che_Vazir.caption
+│   ├── che_Vazir.png
+│   ├── daal_Vazir.caption
+│   ├── daal_Vazir.png
+│   ├── feh_Vazir.caption
+│   ├── feh_Vazir.png
+│   ├── gaf_Vazir.caption
+│   ├── gaf_Vazir.png
+│   ├── ghayn_Vazir.caption
+│   ├── ghayn_Vazir.png
+│   ├── he jimi_Vazir.caption
+│   ├── he jimi_Vazir.png
+│   ├── he_Vazir.caption
+│   ├── he_Vazir.png
+│   ├── jim_Vazir.caption
+│   ├── jim_Vazir.png
+│   ├── kaf_Vazir.caption
+│   ├── kaf_Vazir.png
+│   ├── khe_Vazir.caption
+│   ├── khe_Vazir.png
+│   ├── lam_Vazir.caption
+│   ├── lam_Vazir.png
+│   ├── mim_Vazir.caption
+│   ├── mim_Vazir.png
+│   ├── nun_Vazir.caption
+│   ├── nun_Vazir.png
+│   ├── peh_Vazir.caption
+│   ├── peh_Vazir.png
+│   ├── qaf_Vazir.caption
+│   ├── qaf_Vazir.png
+│   ├── re_Vazir.caption
+│   ├── re_Vazir.png
+│   ├── sad_Vazir.caption
+│   ├── sad_Vazir.png
+│   ├── shin_Vazir.caption
+│   ├── shin_Vazir.png
+│   ├── sin_Vazir.caption
+│   ├── sin_Vazir.png
+│   ├── taa_Vazir.caption
+│   ├── taa_Vazir.png
+│   ├── teh_Vazir.caption
+│   ├── teh_Vazir.png
+│   ├── theh_Vazir.caption
+│   ├── theh_Vazir.png
+│   ├── vav_Vazir.caption
+│   ├── vav_Vazir.png
+│   ├── yaa_Vazir.caption
+│   ├── yaa_Vazir.png
+│   ├── zaa_Vazir.caption
+│   ├── zaa_Vazir.png
+│   ├── zaal_Vazir.caption
+│   ├── zaal_Vazir.png
+│   ├── zad_Vazir.caption
+│   ├── zad_Vazir.png
+│   ├── ze_Vazir.caption
+│   ├── ze_Vazir.png
+│   ├── zhe_Vazir.caption
+│   └── zhe_Vazir.png
+└── Vazir-Thin
+    ├── aleph_Vazir-Thin.caption
+    ├── aleph_Vazir-Thin.png
+    ├── ayn_Vazir-Thin.caption
+    ├── ayn_Vazir-Thin.png
+    ├── beh_Vazir-Thin.caption
+    ├── beh_Vazir-Thin.png
+    ├── che_Vazir-Thin.caption
+    ├── che_Vazir-Thin.png
+    ├── daal_Vazir-Thin.caption
+    ├── daal_Vazir-Thin.png
+    ├── feh_Vazir-Thin.caption
+    ├── feh_Vazir-Thin.png
+    ├── gaf_Vazir-Thin.caption
+    ├── gaf_Vazir-Thin.png
+    ├── ghayn_Vazir-Thin.caption
+    ├── ghayn_Vazir-Thin.png
+    ├── he jimi_Vazir-Thin.caption
+    ├── he jimi_Vazir-Thin.png
+    ├── he_Vazir-Thin.caption
+    ├── he_Vazir-Thin.png
+    ├── jim_Vazir-Thin.caption
+    ├── jim_Vazir-Thin.png
+    ├── kaf_Vazir-Thin.caption
+    ├── kaf_Vazir-Thin.png
+    ├── khe_Vazir-Thin.caption
+    ├── khe_Vazir-Thin.png
+    ├── lam_Vazir-Thin.caption
+    ├── lam_Vazir-Thin.png
+    ├── mim_Vazir-Thin.caption
+    ├── mim_Vazir-Thin.png
+    ├── nun_Vazir-Thin.caption
+    ├── nun_Vazir-Thin.png
+    ├── peh_Vazir-Thin.caption
+    ├── peh_Vazir-Thin.png
+    ├── qaf_Vazir-Thin.caption
+    ├── qaf_Vazir-Thin.png
+    ├── re_Vazir-Thin.caption
+    ├── re_Vazir-Thin.png
+    ├── sad_Vazir-Thin.caption
+    ├── sad_Vazir-Thin.png
+    ├── shin_Vazir-Thin.caption
+    ├── shin_Vazir-Thin.png
+    ├── sin_Vazir-Thin.caption
+    ├── sin_Vazir-Thin.png
+    ├── taa_Vazir-Thin.caption
+    ├── taa_Vazir-Thin.png
+    ├── teh_Vazir-Thin.caption
+    ├── teh_Vazir-Thin.png
+    ├── theh_Vazir-Thin.caption
+    ├── theh_Vazir-Thin.png
+    ├── vav_Vazir-Thin.caption
+    ├── vav_Vazir-Thin.png
+    ├── yaa_Vazir-Thin.caption
+    ├── yaa_Vazir-Thin.png
+    ├── zaa_Vazir-Thin.caption
+    ├── zaa_Vazir-Thin.png
+    ├── zaal_Vazir-Thin.caption
+    ├── zaal_Vazir-Thin.png
+    ├── zad_Vazir-Thin.caption
+    ├── zad_Vazir-Thin.png
+    ├── ze_Vazir-Thin.caption
+    ├── ze_Vazir-Thin.png
+    ├── zhe_Vazir-Thin.caption
+    └── zhe_Vazir-Thin.png
+
+26 directories, 1664 files
