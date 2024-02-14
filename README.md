@@ -19,4 +19,29 @@ To improve the database, you can run the script with other fonts and request mon
 
 ## List of fonts:
 
-
+B Arabics Style
+B Arash
+B Aria
+B Arshia
+B Aseman
+B Aseman Italic
+B Davat
+B Elham
+B Elm
+B Koodak Bold
+B Nasim Bold
+B Nazanin
+B Nazanin Bold
+B Roya
+B Tir
+B Traffic
+B Traffic Bold
+B Zar
+Estedad-Black
+Gandom
+Parastoo
+Sahel
+Samim
+Tanha
+Vazir
+Vazir-Thin
